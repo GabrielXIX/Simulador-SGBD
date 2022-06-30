@@ -1,5 +1,0 @@
-C:\Users\Administrator\Desktop\proyecto\bin\Release\net5.0\publish\proyecto.exe
-C:\Users\Administrator\Desktop\proyecto\bin\Release\net5.0\publish\proyecto.dll
-C:\Users\Administrator\Desktop\proyecto\bin\Release\net5.0\publish\proyecto.deps.json
-C:\Users\Administrator\Desktop\proyecto\bin\Release\net5.0\publish\proyecto.runtimeconfig.json
-C:\Users\Administrator\Desktop\proyecto\bin\Release\net5.0\publish\proyecto.pdb
