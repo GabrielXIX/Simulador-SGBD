@@ -1,7 +1,4 @@
 ﻿//Dueñas Nuñez Alan Gabriel 19211630
-//impedir creacion de tablas bases y campos con nombres reservados
-//cambiar trim end a espacios en dml
-//cambiar ^ y - a espacios en blanco
 
 using System;
 using System.IO;
