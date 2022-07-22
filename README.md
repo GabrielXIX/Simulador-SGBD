@@ -1,4 +1,4 @@
-# Proyecto Simulador-SGBD
+# Proyecto Simulador SGBD
 ## Descripción
 Este proyecto para la materia de Administración de Bases de Datos desarrollado en C# con .NET 5 tiene como propósito simular un sistema gestor de base de datos con las funcionalidades básicas de definición y manipulación de objetos utilizando la consola de comandos y un lenguaje parecido a SQL para consultas, por tanto, el programa usa los archivos y directorios del sistema operativo donde se ejecuta para poder imitar el funcionamiento de una base de datos real.
 
