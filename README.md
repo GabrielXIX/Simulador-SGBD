@@ -1,6 +1,6 @@
 # Proyecto Simulador-SGBD
 ## Descripción
-Este proyecto desarrollado en C# con .NET 5 tiene como propósito simular un sistema gestor de base de datos con las funcionalidades básicas de definición y manipulación de objetos utilizando la consola de comandos y un lenguaje parecido a SQL para consultas, por tanto, el programa usa los archivos y directorios del sistema operativo donde se ejecuta para poder imitar el funcionamiento de una base de datos real.
+Este proyecto para la materia de Administración de Bases de Datos desarrollado en C# con .NET 5 tiene como propósito simular un sistema gestor de base de datos con las funcionalidades básicas de definición y manipulación de objetos utilizando la consola de comandos y un lenguaje parecido a SQL para consultas, por tanto, el programa usa los archivos y directorios del sistema operativo donde se ejecuta para poder imitar el funcionamiento de una base de datos real.
 
 ## Manipulación de datos
 Cuando se define una tabla se crean dos archivos: un archivo .est que sirve para almacenar su estructura y un archivo .dat para los datos de sus registros, cuando el usuario guarda datos en una tabla el programa escribe un registro de izquierda a derecha con cada campo en orden y sin espacios entre estos, solo se encontrarán espacios en blanco dentro de un campo cuando el valor que se le dió es menor a su espacio.
