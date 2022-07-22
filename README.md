@@ -1,5 +1,9 @@
 # Proyecto Simulador-SGBD
-Este proyecto desarrollado en C# con .NET 5 tiene como propósito imitar un sistema gestor de base de datos con las funcionalidades básicas de definición y manipulación de objetos utilizando la consola de comandos simulando el lenguaje de SQL para consultas, por tanto, el programa usa los archivos y directorios del sistema operativo donde se ejecuta para poder imitar el funcionamiento de una base de datos real. Cuando se define una tabla se crean dos archivos: un archivo .est que sirve para almacenar su estructura y un archivo .dat para sus registros, cuando el usuario guarda datos en una tabla el programa escribe un registro de izquierda a derecha con cada campo en orden y sin espacios entre estos, la única vez en la que se encuentran espacios en blanco dentro de un campo es cuando el valor que se le dió es menor al espacio.
+## Descripción
+Este proyecto desarrollado en C# con .NET 5 tiene como propósito simular un sistema gestor de base de datos con las funcionalidades básicas de definición y manipulación de objetos utilizando la consola de comandos y un lenguaje parecido a SQL para consultas, por tanto, el programa usa los archivos y directorios del sistema operativo donde se ejecuta para poder imitar el funcionamiento de una base de datos real.
+
+## Manipulación de datos
+Cuando se define una tabla se crean dos archivos: un archivo .est que sirve para almacenar su estructura y un archivo .dat para los datos de sus registros, cuando el usuario guarda datos en una tabla el programa escribe un registro de izquierda a derecha con cada campo en orden y sin espacios entre estos, solo se encontrarán espacios en blanco dentro de un campo cuando el valor que se le dió es menor a su espacio.
 
 ## Funcionalidades y sintaxis:
 
@@ -93,21 +97,6 @@ Este proyecto desarrollado en C# con .NET 5 tiene como propósito imitar un sist
   `lista <nombreCampo1>, <nombreCampo2>, ..., <nombreCampoN> de <nombreTabla> donde <nombreCampo> = <valorCampo>;`
   
   <img src="https://user-images.githubusercontent.com/65438145/180338721-a8ad39c1-fe1c-4479-ab01-64660a537b2b.png" width="400">
- 
- 
- 
- 
- 
- 
 
-
-
-
-
-
-
-
-
-
-
-
+## Conclusión
+Al terminar de realizar el programa está claro que los sistemas gestores son sistemas muy complejos que funcionan con diversos algoritmos para llevar a cabo el manejo de la información y por ende se debe reconocer la forma en la que los gestores actuales son bastante sofisticados y eficientes a comparación de hace unas décadas, también cabe recalcar su importancia en el mundo de los sistemas computacionales o la informática aplicada a distintas áreas como la producción, servicios, o instituciones ya que nos permiten manipular grandes cantidades de datos y usarlos en distintas operaciones.
