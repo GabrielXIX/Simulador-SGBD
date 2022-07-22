@@ -70,7 +70,27 @@ Este proyecto desarrollado en C# con .NET 5 tiene como propósito imitar un sist
 - ### Listar registros
   `lista * de <nombreTabla>;`
   
-  <img src="https://user-images.githubusercontent.com/65438145/180336322-8f2fc07c-7612-432c-94a9-d2f8538d62a9.png" width="750">
+  <img src="https://user-images.githubusercontent.com/65438145/180338195-112c8331-3f3c-408b-bcf7-80c80d5f7c77.png" width="400">
+  
+  `lista * de <nombreTabla> donde <nombreCampo> = <valorCampo>;`
+  
+  <img src="https://user-images.githubusercontent.com/65438145/180338281-f9d12c01-48c4-48ae-ad64-9d341c424939.png" width="400">
+  
+  `lista <nombreCampo> de <nombreTabla>;`
+  
+  <img src="https://user-images.githubusercontent.com/65438145/180338314-6de679dc-7715-46e0-97a0-6d0522b1ac92.png" width="400">
+  
+  `lista <nombreCampo> de <nombreTabla> donde <nombreCampo> = <valorCampo>;`
+  
+  <img src="https://user-images.githubusercontent.com/65438145/180338562-7c4230ee-3e16-4794-8de8-a90b1db422cd.png" width="400">
+  
+  `lista <nombreCampo1>, <nombreCampo2>, ..., <nombreCampoN> de <nombreTabla>;`
+  
+  <img src="https://user-images.githubusercontent.com/65438145/180338702-8cd00e9d-aafe-4992-ae07-c90a57509ccc.png" width="400">
+  
+  `lista <nombreCampo1>, <nombreCampo2>, ..., <nombreCampoN> de <nombreTabla> donde <nombreCampo> = <valorCampo>;`
+  
+  <img src="https://user-images.githubusercontent.com/65438145/180338721-a8ad39c1-fe1c-4479-ab01-64660a537b2b.png" width="400">
  
  
  
