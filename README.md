@@ -24,7 +24,9 @@ Este proyecto desarrollado en C# con .NET 5 tiene como propósito imitar un sist
   <img src="https://user-images.githubusercontent.com/65438145/180337037-f444dc86-eb68-4990-b839-76789648d4e7.png" width="375">
   <img src="https://user-images.githubusercontent.com/65438145/180337065-c1da9f19-2f56-44e1-99dc-d3decb48b16b.png" width="375">
   
-- ### Crear tabla
+- ### Crear tabla 
+  En el tipo de dato **fecha** no se define espacio ya que es 8 por defecto y en el tipo **decimal** se requiere espacio de dígitos enteros y decimales (c1, decimal, 3, 4 ==> número decimal con 3 dígitos enteros y 4 dígitos decimales).
+  
   `crea tabla <nombreTabla>, <nombreCampo1>, <tipoCampo1>, <espacioCampo1>, <nombreCampo2>, <tipoCampo2>, <espacioCampo2>, ..., <nombreCampoN>, <tipoCampoN>, <espacioCampoN>;`
   
   <img src="https://user-images.githubusercontent.com/65438145/180337089-50fcccb4-b4ad-4123-a088-35719eb2811c.png" width="550">
@@ -62,7 +64,7 @@ Este proyecto desarrollado en C# con .NET 5 tiene como propósito imitar un sist
   
   <img src="https://user-images.githubusercontent.com/65438145/180337917-2a1febd5-0620-4077-b90b-48bf0584b3d4.png" width="750">
  
-- ### Modificar registros de tabla
+- ### Modificar en tabla
   `modifica en <nombreTabla>, <nombreCampo1> = <valorCampo1>, <nombreCampo2> = <valorCampo2>, ..., <nombreCampoN> = <valorCampoN>, donde <nombreCampo> = <valorCampo>;`
   
   <img src="https://user-images.githubusercontent.com/65438145/180337991-787ecd63-10bd-41f1-819e-78169401ed8c.png" width="750">
